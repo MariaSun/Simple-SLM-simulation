@@ -97,7 +97,6 @@ original=np.real(u2_ff*np.conj(u2_ff))
 plt.pcolormesh(X,Y,original)
 plt.colorbar()
 plt.title('Fraunhofer Propagation from SLM screen')
-#plt.savefig("/Users/mariasolyanik/Dropbox/Research/Volker/grants/NSA_MM/Diff_prop/OAM_10.png", dpi=300., format="png")
 
 plt.show()
 
